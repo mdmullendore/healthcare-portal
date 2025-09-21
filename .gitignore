@@ -25,4 +25,4 @@ dist-ssr
 
 # Spring
 
-application.properties
+./backend/src/main/resources/application.properties/application.properties

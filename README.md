@@ -1,7 +1,6 @@
-# Healthcare Portal
+# Docker Spring Boot Vue Project Scaffold
 
-Healthcare Portal is a web application designed to streamline healthcare management for patients and providers. The app enables users to schedule appointments, access medical records, communicate securely with healthcare professionals, and manage prescriptions. With a user-friendly interface and robust security features Healthcare Portal aims to improve patient engagement and simplify administrative tasks for clinics and hospitals.
-
+This project scaffold provides a modern, containerized full-stack setup using Spring Boot for the backend and Vue.js for the frontend, all orchestrated through Docker for consistent, reproducible environments. The scaffold streamlines development by separating concerns between the Java GraphQL API and the Vue UI while enabling seamless local development, testing, and deployment with minimal configuration.
 
 # Tech Stack
 
